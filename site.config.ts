@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'bfrancois,
+  name: 'bfrancois',
   domain: 'nextjs-notion-starter-kit.bfrancois.com',
   author: 'BOUSSENGUI François',
 
