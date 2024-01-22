@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'bfrancois,
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'nextjs-notion-starter-kit.bfrancois.com',
+  author: 'BOUSSENGUI François',
 
   // open graph metadata (optional)
   description: 'My personal portfolio',
