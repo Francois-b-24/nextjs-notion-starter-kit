@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: 'transitive_bs',
   github: 'https://github.com/Francois-b-24',
-  linkedin: 'https://www.linkedin.com/in/fboussengui/'
+  linkedin: 'https://www.linkedin.com/in/fboussengui/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
